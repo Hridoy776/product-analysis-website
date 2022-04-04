@@ -13,6 +13,7 @@ import {
   Bar,
   PieChart,
   Pie,
+  Label,
 } from "recharts";
 
 const Dashboard = () => {
@@ -23,7 +24,7 @@ const Dashboard = () => {
       .then((data) => setDatas(data));
   }, []);
   return (
-    <div className="d-sm-flex container mx-auto flex-wrap">
+    <div className="d-lg-flex container mx-auto flex-wrap">
       <div>
         <LineChart
           width={350}
@@ -53,17 +54,19 @@ const Dashboard = () => {
               <stop offset="95%" stopColor="#8884d8" stopOpacity={0} />
             </linearGradient>
           </defs>
-          <XAxis dataKey="month" />
+          <XAxis dataKey="month" ><Label value="sell per month" offset={0} position="insideBottom" /></XAxis>
           <YAxis />
           <CartesianGrid strokeDasharray="3 3" />
           <Tooltip />
           <Area
+          
             type="monotone"
             dataKey="sell"
             stroke="#8884d8"
             fillOpacity={1}
             fill="url(#colorUv)"
           />
+          
         </AreaChart>
       </div>
       <div>
@@ -99,6 +102,7 @@ const Dashboard = () => {
             fill="#82ca9d"
             label
           />
+          <Tooltip></Tooltip>
         </PieChart>
       </div>
     </div>
