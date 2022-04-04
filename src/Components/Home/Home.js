@@ -1,10 +1,10 @@
 import React from "react";
 import { Button, Row } from "react-bootstrap";
+import { useNavigate } from "react-router-dom";
 import useReview from "../../usereview/usereview";
 import Review from "../Review/Review";
 
 const Home = () => {
-    const [reviews]=useReview()
   return (
       <>
     <section className="container" >
