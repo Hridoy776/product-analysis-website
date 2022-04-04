@@ -1,10 +1,20 @@
 import React from 'react';
+import { Card, Col } from 'react-bootstrap';
 
-const Review = () => {
+const Review = ({singlereview}) => {
+    const{name,review}=singlereview;
     return (
-        <div>
-            <p>this is review page</p>
-        </div>
+        <Col>
+          <Card>
+        
+        <Card.Body>
+          <Card.Title>{name}</Card.Title>
+          <Card.Text>
+            {review.slice(0,200)}
+          </Card.Text>
+        </Card.Body>
+      </Card>
+        </Col>
     );
 };
 

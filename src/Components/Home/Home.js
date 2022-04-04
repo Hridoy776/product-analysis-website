@@ -1,10 +1,13 @@
 import React from "react";
-import { Button } from "react-bootstrap";
+import { Button, Row } from "react-bootstrap";
+import useReview from "../../usereview/usereview";
+import Review from "../Review/Review";
 
 const Home = () => {
+    const [reviews]=useReview()
   return (
       <>
-    <section >
+    <section className="container" >
       <h1 className="text-center text-primary ">well come to tech world</h1>
       <div className="d-sm-flex justify-content-center m-3">
         <div className="m-3 order-3">
@@ -25,8 +28,14 @@ const Home = () => {
         </div>
       </div>
     </section>
-    <section>
+    <section className="container d-flex flex-column aligns-item-center ">
         <h1 className="text-center text-primary">customer review</h1>
+        <Row xs={1} md={2} lg={3} className="g-4">
+         {reviews.slice(0,3).map(review=><Review key={review.id} singlereview={review}></Review>)}
+        </Row>
+        <div className="d-flex justify-content-center my-3">
+        <button className="btn btn-primary w-25 ">see all reviews</button>
+        </div>
     </section>
     </>
   );
