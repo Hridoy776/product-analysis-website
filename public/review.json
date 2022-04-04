@@ -1,38 +1,44 @@
 [
-    {
-      "id": 1,
-      "name": "Aurthor",
-      "review": "The performance differences between it and it's predecessor are marginal, at best.Yet you are being asked to pay $2400 for membership. Think back to around 2015, when the previous gen entry cost was still $ 2000, then they changed it to $2400. For that, you got shafted with a crap keyboard, a failing display, an identity crisis for a touch-bar, and less connectivity. Now that this latest model came out and people are buying it, they are bolstering Apple's position: never apologize for hardware issues, make ppl pay extra for AppleCare+, give folks a real working keyboard and make it look like they are doing you a favor so the prices are .... what .... justified ? Apple's pricing schemes make you wonder if they think they can get ppl to believe that hardware is actually comparable to a commodity, or something like that.Lastly, you do not know what kind of quality issues lurk behind these new models ....",
-      "img": "..."
-    },
-    {
-      "id": 2,
-      "name": "Meganite",
-      "review":"Maybe I just got unlucky, but the laptop I received never really worked. When going through the setup process, the computer was unable to load data from my Time Machine backup. I cancelled out of it in an attempt to complete the rest of the installation process. I had to shutdown and after that,the machine never worked again. During the boot phase it just cycled through the Apple logo/progress bar startup over and over and over again. It would almost reach the end and then stop and restart, but never fully booted. I returned it, but since it was processed through a third party,I had to pay a 15% restocking fee, so I only received 85% of what I initially paid. So I had to pay almost $400 for the pleasure of owning a broken Mac for a day. What a joy! I complained to the 3rd party and they said the laptop was fine which is baffling since I watched the machine try and boot for half and hour.I feel screwed. Maybe I just got a bad product, or maybe Apple has serious quality control issues. It's seriously making me think of giving up on Macs all together.",
-      "img": "..."
-    },
-    {
-      "id": 3,
-      "name": "Jawz",
-      "review": "I have owned the 15.4 Touch Bar model since 2016, I typed on it before I bought it and I knew the keyboard wasn't as good as my 2012 15, but, it wasn't as bad as some reviewers made it out to be, I'm glad I bought it before the bad reviews. The 2016 was a huge upgrade from the 2012 and I can say the 2019 is a huge upgrade from the 2016.There is no one feature that is absolutely night and day from the 2016, but, every function is better. Screen quality and size, performance, keyboard mostly non-touchbar ESC key for me, battery life, speakers, mic and thermal, it's a bit quieter than the 2016. If you have been holding out because you like the 2012 keyboard travel and feel, the 2019 travels further and feels better.I can't personally feel the weight difference in my bag, between laptop, accessories Jabra speaker being the heaviest my bag weighs about 9lbs so if it's 9.3lbs I can't feel it and once it's out of the bad I don't tend to move it around. It is a big larger, but, still fits in my small 2 pocket Tumi laptop bag, so the .25 doesn't bother me either.I'm looking forward to seeing if it's as durable, I got over 300 full battery cycles on the 2016, I expect the same from this unit, but, only time will tell.Hope my experience helps.",
-      "img": "..."
-    },
-    {
-      "id": 4,
-      "name": "Smith",
-      "review": "OMG!!! This is my 3rd MacBook Pro that I have owned over the past few years,and I have to say this one is by far the best one yet. This is my first Space gray, and I it's absolutely gorgeous and sleek. A very sexy machine. It looks so much better than the silver. A more modern look.The screen is freaking GORGEOUS! The colors, the brightness, so pure and crystal clear. And me being an animator, graphics designer and writer, I can tell the larger screen for sure.My last MacBook Pro was the 15 inch 2015, and I thought I was going to miss the glowing Apple logo, but to be honest, I don't. When I go back on my 2015, it seems so outdated. The mirrored logo looks so much more modern.The trackpad is HUGE, and I love it. My 2015 track pad seems so tiny and disappointing now.I have no idea why so many people say they hate the Touch Bar. I LOVE IT! I can not imagine life without it. It's beautiful and as a writer I love how it recommended the corrected words. I love being able to run through videos, play music and navigate more effectively. It's perfect. Well....almost. The only complaint I would say is it goes dim in dim light. I thing it should be our decision to dim it. Other than that it's perfect. I also love how easy it is to get to the emojis",
-      "img": "..."
-    },
-    {
-      "id": 5,
-      "name": "Adam",
-      "review": "I finally traded in my 15inch 2015 MBP for the 16inch MBP.The old one has a better keyboard, but the 16 inch is passable (unlike the ones between). The 16 inch is actually smaller than the 15 inch I had, so, if anything, it's more transportable.For what I do, writing, the processor speed doesn't speed up the creative process. But I figure amortizing the cost over 5 years makes it a pretty good investment.Screen resolution, for my purposes, is no different. Processor speed is for gamers, but I find launching apps from the Dock is frustratingly slow. This is a Finder issue, as apps launch but don't leap to the top. Why not?The most useful improvement for me is the log-in via fingerprint. Much faster than typing in a password. And I have to say the response is instant. I do not find the touch bar useful, because I touch type. I rarely look at the keyboard, so I don't see what it offers. Hunt and peck types may find it more useful.The lousy camera doesn't bother me, because I don't use it. But, if I did, I would be miffed Apple is unloading their inventory of 720p cameras in a high priced machine.The speakers are simply amazing. I've never heard such sound quality out of a laptop. You just have to hear it to believe. Subwoofers in a laptop? Amazing.In short, I am very pleased with my new 16 inch MBP. A couple of things are annoying, but there are several additions that reassure me that there has been some improvement over that past 5 years.",
-      "img": "..."
-    },
-    {
-      "id": 6,
-      "name": "Sarah",
-      "review": "I must admit that the lure of the new MacBookPro16inch was strong-However, in the light of day it is an expensive ticket to an exclusive club (cult of mac) that I can still appreciate, but long for the features that I love on my older MBP's (13 inch Mid2010 & 17 inch Late2011).Miss the venerable startup chime, activity light, charging status button, magsafe charging port not to mention the illuminated Apple Logo, and all the internals that used to be 'USER CONFIGURABLE' (ie, battery. ssd, ram, etc).",
-      "img": "..."
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Aurthor",
+    "rating":5,
+    "review": "The performance differences between it and it's predecessor are marginal, at best.Yet you are being asked to pay $2400 for membership. Think back to around 2015, when the previous gen entry cost was still $ 2000, then they changed it to $2400. For that, you got shafted with a crap keyboard, a failing display, an identity crisis for a touch-bar, and less connectivity. Now that this latest model came out and people are buying it, they are bolstering Apple's position: never apologize for hardware issues, make ppl pay extra for AppleCare+, give folks a real working keyboard and make it look like they are doing you a favor so the price ....",
+    "img": "..."
+  },
+  {
+    "id": 2,
+    "name": "Meganite",
+    "rating":4.5,
+    "review": "Maybe I just got unlucky, but the laptop I received never really worked. When going through the setup process, the computer was unable to load data from my Time Machine backup. I cancelled out of it in an attempt to complete the rest of the installation process. I had to shutdown and after that,the machine never worked again. During the boot phase it just cycled through the Apple logo/progress bar startup over and over and over again. It would almost reach the end and then stop and restart, but never fully booted. I returned it, but since it was processed through a third party,I had to pay a 15% restocking fee, so I only received 85% of what I initially paid. So I had to pay almost $400 for the pleasure of owning a broken Mac for a day. What a joy! I complained to the 3rd party and they said the laptop was fine which is baffling since I watched the machine try and boot for half and hour.I feel screwed. Maybe I just got a bad product, or maybe Apple has serious quality control issues. It's seriously making me think of giving up on Macs all together.",
+    "img": "..."
+  },
+  {
+    "id": 3,
+    "name": "Jawz",
+    "rating":4.8,
+    "review": "I have owned the 15.4 Touch Bar model since 2016, I typed on it before I bought it and I knew the keyboard wasn't as good as my 2012 15, but, it wasn't as bad as some reviewers made it out to be, I'm glad I bought it before the bad reviews. The 2016 was a huge upgrade from the 2012 and I can say the 2019 is a huge upgrade from the 2016.There is no one feature that is absolutely night and day from the 2016, but, every function is better. Screen quality and size, performance, keyboard mostly non-touchbar ESC key for me, battery life, speakers, mic and thermal, it's a bit quieter than the 2016. If you have been holding out because you like the 2012 keyboard travel and feel, the 2019 travels further and feels better.I can't personally feel the weight difference in my bag, between laptop, accessories Jabra speaker being the heaviest my bag weighs about 9lbs so if it's 9.3lbs I can't feel it and once it's out of the bad I don't tend to move it around. It is a big larger, but, still fits in my small 2 pocket Tumi laptop bag, so the .25 doesn't bother me either.I'm looking forward to seeing if it's as durable, I got over 300 full battery cycles on the 2016, I expect the same from this unit, but, only time will tell.Hope my experience helps.",
+    "img": "..."
+  },
+  {
+    "id": 4,
+    "name": "Smith",
+    "rating":3.9,
+    "review": "OMG!!! This is my 3rd MacBook Pro that I have owned over the past few years,and I have to say this one is by far the best one yet. This is my first Space gray, and I it's absolutely gorgeous and sleek. A very sexy machine. It looks so much better than the silver. A more modern look.The screen is freaking GORGEOUS! The colors, the brightness, so pure and crystal clear. And me being an animator, graphics designer and writer, I can tell the larger screen for sure.My last MacBook Pro was the 15 inch 2015, and I thought I was going to miss the glowing Apple logo, but to be honest, I don't. When I go back on my 2015, it seems so outdated. The mirrored logo looks so much more modern.The trackpad is HUGE, and I love it. My 2015 track pad seems so tiny and disappointing now.I have no idea why so many people say they hate the Touch Bar. I LOVE IT! I can not imagine life without it. It's beautiful and as a writer I love how it recommended the corrected words. I love being able to run through videos, play music and navigate more effectively. It's perfect. Well....almost. The only complaint I would say is it goes dim in dim light. I thing it should be our decision to dim it. Other than that it's perfect. I also love how easy it is to get to the emojis",
+    "img": "..."
+  },
+  {
+    "id": 5,
+    "name": "Adam",
+    "rating":4.2,
+    "review": "I finally traded in my 15inch 2015 MBP for the 16inch MBP.The old one has a better keyboard, but the 16 inch is passable (unlike the ones between). The 16 inch is actually smaller than the 15 inch I had, so, if anything, it's more transportable.For what I do, writing, the processor speed doesn't speed up the creative process. But I figure amortizing the cost over 5 years makes it a pretty good investment.Screen resolution, for my purposes, is no different. Processor speed is for gamers, but I find launching apps from the Dock is frustratingly slow. This is a Finder issue, as apps launch but don't leap to the top. Why not?The most useful improvement for me is the log-in via fingerprint. Much faster than typing in a password. And I have to say the response is instant. I do not find the touch bar useful, because I touch type. I rarely look at the keyboard, so I don't see what it offers. Hunt and peck types may find it more useful.The lousy camera doesn't bother me, because I don't use it. But, if I did, I would be miffed Apple is unloading their inventory of 720p cameras in a high priced machine.The speakers are simply amazing. I've never heard such sound quality out of a laptop. You just have to hear it to believe. Subwoofers in a laptop? Amazing.In short, I am very pleased with my new 16 inch MBP. A couple of things are annoying, but there are several additions that reassure me that there has been some improvement over that past 5 years.",
+    "img": "..."
+  },
+  {
+    "id": 6,
+    "name": "Sarah",
+    "rating":4.1,
+    "review": "I must admit that the lure of the new MacBookPro16inch was strong-However, in the light of day it is an expensive ticket to an exclusive club (cult of mac) that I can still appreciate, but long for the features that I love on my older MBP's (13 inch Mid2010 & 17 inch Late2011).Miss the venerable startup chime, activity light, charging status button, magsafe charging port not to mention the illuminated Apple Logo, and all the internals that used to be 'USER CONFIGURABLE' (ie, battery. ssd, ram, etc).",
+    "img": "..."
+  }
+]

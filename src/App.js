@@ -9,6 +9,7 @@ import Home from './Components/Home/Home';
 
 import NavBar from './Components/NavBar/NavBar';
 import AllReview from './Components/AllReview/AllReview';
+import NotFound from './Components/NotFound/NotFound';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Route path="/dashboard" element={<Dashboard></Dashboard>}/>
       <Route path="/blog" element={<Blog></Blog>}/>
       <Route path="/about" element={<About></About>}/>
+      <Route path="*" element={<NotFound></NotFound>}/>
     </Routes>
     </>
   );

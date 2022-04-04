@@ -14,6 +14,7 @@ const AllReview = () => {
               <Card.Body>
                 <Card.Title>{singlereview.name}</Card.Title>
                 <Card.Text>{singlereview.review.slice(0, 200)}</Card.Text>
+                <Card.Text>Rattings:{singlereview.rating}</Card.Text>
               </Card.Body>
             </Card>
           </Col>})
