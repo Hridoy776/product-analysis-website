@@ -39,7 +39,7 @@ const Home = () => {
          {reviews.slice(0,3).map(review=><Review key={review.id} singlereview={review}></Review>)}
         </Row>
         <div className="d-flex justify-content-center my-3">
-        <button onClick={seeAllReviews} className="btn btn-primary w-25 ">see all reviews</button>
+        <button onClick={seeAllReviews} className="btn btn-primary  w-sm-25 ">see all reviews</button>
         </div>
     </section>
     </>
