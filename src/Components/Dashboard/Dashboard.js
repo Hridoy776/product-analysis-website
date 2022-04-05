@@ -24,7 +24,7 @@ const Dashboard = () => {
       .then((data) => setDatas(data));
   }, []);
   return (
-    <div className="d-lg-flex container mx-auto flex-wrap">
+    <div className="d-lg-flex container mx-auto my-5 flex-wrap">
       <div>
         <LineChart
           width={350}
