@@ -8,6 +8,7 @@ const Review = ({ singlereview }) => {
   const { name, review, rating,img } = singlereview;
   return (
     <>
+    
       <Col>
         <Card>
           <Card.Body>

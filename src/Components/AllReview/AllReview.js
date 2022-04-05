@@ -9,7 +9,8 @@ const AllReview = () => {
 
   return (
     <>
-      <Row xs={1} md={2} lg={3} className="g-4 container mx-auto my-5">
+    <h1 className="text-center text-primary my-4">Our customer what says!</h1>
+      <Row xs={1} md={2} lg={3} className="g-4 container mx-auto my-3">
         {
          reviews.map((review) =><Review key={review.id} singlereview={review}></Review> )
         } 

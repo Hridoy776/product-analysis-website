@@ -3,7 +3,7 @@ import { Row } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
 import useReview from "../../usereview/usereview";
 import Review from "../Review/Review";
-
+import '../Review/Review.css'
 const Home = () => {
     const [reviews]=useReview()
     const navigate=useNavigate()
@@ -22,8 +22,8 @@ const Home = () => {
           />
         </div>
         <div className="w-sm-50  d-flex flex-column order-2">
-          <h2>this is your first macbook pro</h2>
-          <h2 className="text-primary">this is your lucky macbook pro</h2>
+          <p className="title mb-0">this is your first macbook pro</p>
+          <p className="text-primary title mt-0">this is your lucky macbook pro</p>
           <p className="text-lg-center">
             <strong>MacBook Pro</strong>. Our most powerful notebooks. Fast M1
             processors, incredible graphics, and spectacular Retina displays.

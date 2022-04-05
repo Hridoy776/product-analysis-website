@@ -4,6 +4,7 @@ import { Card, Col, Row } from "react-bootstrap";
 const Blog = () => {
   return (
     <>
+    <h1 className="text-center text-primary my-3">some information is here</h1>
       <Row xs={1} md={2} lg={3} className="g-4 container mx-auto my-5">
         <Col>
           <Card>
