@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# product-analysis-website-hridoy776
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,7 +13,7 @@ TECH-WORLD
 
 ## features
 * project is runnig with react router
-* useNavigate
+* there is three review in home page and a button to se all review
 * there is a dashboard using rechart
 * there is a blog route where i show some answer of question
               
